@@ -1,4 +1,9 @@
 # CODTECH_TASK_2
+Name: Yogalakshmi S 
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS2394 
+Domain: UI/UX Design 
+Duration: June 15th - July 15th, 2024
 
 Monochromatic Colors: The redesign opts for a monochromatic color scheme, employing various shades and tints of a single color. This deliberate choice not only adds a touch of elegance and sophistication but also creates a cohesive visual experience across the website's pages. It eliminates color distractions, allowing the focus to remain on the products and content, which is essential for enhancing user engagement and conversion rates.
 
